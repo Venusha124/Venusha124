@@ -43,15 +43,8 @@ I believe in:
 - Git & GitHub  
 - Postman  
 - VS Code / Visual Studio  
-- Figma  
-
----
-
-### 🔭 Currently Working On
-- Full-stack web systems
-- Playwright automation scripts & QA reports  
-- Improving UI/UX and system performance  
-
+- Figma
+  
 ---
 
 ### 🌱 Currently Learning
