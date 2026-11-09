@@ -22,7 +22,8 @@ I believe in:
 **Frontend**
 - HTML, CSS, JavaScript  
 - React.js  
-- Bootstrap, Tailwind CSS  
+- Bootstrap, Tailwind CSS
+- Next.js 
 
 **Backend**
 - Go (Golang)  
